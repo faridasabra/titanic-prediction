@@ -76,6 +76,4 @@ To run this project, you would typically:
 3.  **Download the `train.csv` and `test.csv` datasets** from the Kaggle Titanic competition page.
 4.  **Execute the Jupyter Notebook** (e.g., `titanic.ipynb`) to perform data analysis, model building, and prediction.
 
-**Note:** Some setups may involve creating a virtual environment and installing dependencies using `pip install -r requirements.txt`.
-
 ---
